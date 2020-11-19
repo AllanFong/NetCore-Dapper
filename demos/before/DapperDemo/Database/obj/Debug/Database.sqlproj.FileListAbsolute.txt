@@ -1,0 +1,6 @@
+C:\WebApps\BackEnd\Dapper\04\demos\demos\before\DapperDemo\Database\bin\Debug\Database.dacpac
+C:\WebApps\BackEnd\Dapper\04\demos\demos\before\DapperDemo\Database\bin\Debug\Database.dll
+C:\WebApps\BackEnd\Dapper\04\demos\demos\before\DapperDemo\Database\bin\Debug\Database.pdb
+C:\WebApps\BackEnd\Dapper\04\demos\demos\before\DapperDemo\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\WebApps\BackEnd\Dapper\04\demos\demos\before\DapperDemo\Database\obj\Debug\Database.dll
+C:\WebApps\BackEnd\Dapper\04\demos\demos\before\DapperDemo\Database\obj\Debug\Database.pdb
